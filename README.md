@@ -1811,6 +1811,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/coffee-theme.png)
 
+### Cursor Light
+
+![Screenshot](/screenshots/cursor-light.png)
+
 ### Dawnfox
 
 ![Screenshot](/screenshots/dawnfox.png)
