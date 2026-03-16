@@ -1417,6 +1417,46 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/seafoam-pastel.png)
 
+### SeedFlip Abyss
+
+![Screenshot](/screenshots/seedflip-abyss.png)
+
+### SeedFlip Canopy
+
+![Screenshot](/screenshots/seedflip-canopy.png)
+
+### SeedFlip Ember
+
+![Screenshot](/screenshots/seedflip-ember.png)
+
+### SeedFlip Inkwell
+
+![Screenshot](/screenshots/seedflip-inkwell.png)
+
+### SeedFlip Nightfall
+
+![Screenshot](/screenshots/seedflip-nightfall.png)
+
+### SeedFlip Phosphor
+
+![Screenshot](/screenshots/seedflip-phosphor.png)
+
+### SeedFlip Pulse
+
+![Screenshot](/screenshots/seedflip-pulse.png)
+
+### SeedFlip Ultraviolet
+
+![Screenshot](/screenshots/seedflip-ultraviolet.png)
+
+### SeedFlip Voltage
+
+![Screenshot](/screenshots/seedflip-voltage.png)
+
+### SeedFlip Wavelength
+
+![Screenshot](/screenshots/seedflip-wavelength.png)
+
 ### Selenized Black
 
 ![Screenshot](/screenshots/selenized-black.png)
@@ -2002,6 +2042,26 @@ The screenshots are categorized.
 ### Rose Pine Dawn
 
 ![Screenshot](/screenshots/rose-pine-dawn.png)
+
+### SeedFlip Amethyst
+
+![Screenshot](/screenshots/seedflip-amethyst.png)
+
+### SeedFlip Carbon
+
+![Screenshot](/screenshots/seedflip-carbon.png)
+
+### SeedFlip Coral
+
+![Screenshot](/screenshots/seedflip-coral.png)
+
+### SeedFlip Glacier
+
+![Screenshot](/screenshots/seedflip-glacier.png)
+
+### SeedFlip Ivory
+
+![Screenshot](/screenshots/seedflip-ivory.png)
 
 ### Selenized Light
 
