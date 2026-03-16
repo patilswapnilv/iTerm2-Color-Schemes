@@ -573,6 +573,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/django.png)
 
+### Dogxi Misty
+
+![Screenshot](/screenshots/dogxi-misty.png)
+
 ### Doom One
 
 ![Screenshot](/screenshots/doom-one.png)

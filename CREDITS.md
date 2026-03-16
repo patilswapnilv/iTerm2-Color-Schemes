@@ -122,6 +122,8 @@ The DjangoRebornAgain theme was created by [christopherscott](https://github.com
 
 The DjangoSmoothy theme was created by [Jannis Leidel](https://code.djangoproject.com/wiki/TextMate). The original colors schemes were created by [threespot.com](https://threespot.com) for the Django Software Foundation
 
+The Dogxi Misty theme was created by [Dogxi](https://github.com/dogxii).
+
 The Doom One theme was based on [Emacs Doom default theme](https://github.com/hlissner/emacs-doom-themes)
 
 The Doom Peacock theme was based on [Emacs Doom Peacock theme](https://github.com/hlissner/emacs-doom-themes)
