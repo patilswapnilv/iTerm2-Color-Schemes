@@ -1301,6 +1301,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/phala-green-dark.png)
 
+### Pierre Dark
+
+![Screenshot](/screenshots/pierre-dark.png)
+
 ### Pnevma
 
 ![Screenshot](/screenshots/pnevma.png)
@@ -1970,6 +1974,10 @@ The screenshots are categorized.
 ### Piatto Light
 
 ![Screenshot](/screenshots/piatto-light.png)
+
+### Pierre Light
+
+![Screenshot](/screenshots/pierre-light.png)
 
 ### Poimandres White
 
