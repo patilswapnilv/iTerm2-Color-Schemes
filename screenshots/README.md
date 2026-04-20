@@ -456,6 +456,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/embers-dark.png)
 
+### Emerald Synth
+
+![Screenshot](/screenshots/emerald-synth.png)
+
 ### ENCOM
 
 ![Screenshot](/screenshots/encom.png)
