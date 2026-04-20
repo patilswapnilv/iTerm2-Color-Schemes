@@ -2011,6 +2011,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/monospace-light.png)
 
+### Moonwalk
+
+![Screenshot](/screenshots/moonwalk.png)
+
 ### Neobones Light
 
 ![Screenshot](/screenshots/neobones-light.png)
