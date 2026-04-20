@@ -792,6 +792,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/kanso-zen.png)
 
+### Karasu Night
+
+![Screenshot](/screenshots/karasu-night.png)
+
 ### Kibble
 
 ![Screenshot](/screenshots/kibble.png)
@@ -1757,6 +1761,10 @@ The screenshots are categorized.
 ### Kanso Pearl
 
 ![Screenshot](/screenshots/kanso-pearl.png)
+
+### Karasu Snow
+
+![Screenshot](/screenshots/karasu-snow.png)
 
 ### Light Owl
 
